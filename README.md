@@ -2,7 +2,7 @@
 
 Landing page desenvolvida para divulgar e gerar agendamentos para o negócio de Barbearia masculina - Template, atendendo o bairro Éden e região em Sorocaba/SP.
 
-🔗 **Site no ar:** [page-barbearia.vercel.app](https://page-barbearia-sigma.vercel.app/)
+🔗 **Site no ar:** [Barbershop](https://page-barbearia-sigma.vercel.app/)
 
 ## 📋 Sobre o projeto
 
