@@ -15,7 +15,7 @@ O objetivo da página é converter visitantes em agendamentos via WhatsApp, apre
 - **Galeria/carrossel** de trabalhos com autoplay e navegação por setas
 - **Seção de serviços** com preços e chamada de agendamento individual por serviço
 - **Depoimentos de clientes** com avaliação em estrelas
-- **SEO local otimizado**: meta tags Open Graph, Twitter Card, dados estruturados (Schema.org `NailSalon`) com endereço, área de atendimento e ofertas — ajuda o Google a entender e exibir melhor o negócio em buscas locais
+- **SEO local otimizado**: meta tags Open Graph, Twitter Card, dados estruturados (Schema.org `BarberShop`) com endereço, área de atendimento e ofertas — ajuda o Google a entender e exibir melhor o negócio em buscas locais
 - **Mapa com a localização do estabelecimento** diretamente pelo Google Maps
 ## 🛠️ Tecnologias
 
